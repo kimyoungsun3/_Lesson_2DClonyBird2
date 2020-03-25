@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pipe
+  - bg_sky
+  - bg_ground
+  - Scoreboard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Detector
+  - Background
+  - Obstacle
+  - Pipe
+  - Scoreboard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 4219066413
+    locked: 0
+  - name: playground
+    uniqueID: 3334396627
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
